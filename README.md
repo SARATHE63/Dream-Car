@@ -1,2 +1,3 @@
 # Dream-Car
-collobrate with college team to create project.
+Collobrate with College team to create project.
+It's a Car Selling Website. 
